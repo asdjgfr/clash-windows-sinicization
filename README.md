@@ -3,7 +3,7 @@
 
 > 如果原作者不修改其中的字段不出意外可以支持后续所有版本。
 
-> 新版提示汉化成功但是未汉化的[原因](https://github.com/asdjgfr/clash-windows-sinicization/issues/1)
+> 新版提示汉化成功但是未汉化的[原因](https://github.com/asdjgfr/clash-windows-sinicization/issues/1#issuecomment-759278480)
 
 
 ## 汉化预览
